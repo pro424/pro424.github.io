@@ -89,7 +89,7 @@ input, select, textarea {
 	@media screen and (max-width: 7360px) {
 
 		html, body {
-			min-width: 320px;
+			min-width: 620px;
 		}
 
 	}
